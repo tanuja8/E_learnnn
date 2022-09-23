@@ -1,0 +1,36 @@
+.img_jumbo{
+    background-image: url('img1.jpg');
+    background-size: cover;
+    height: 500px;
+}
+.jumbotron{
+    border-radius: 0;
+}
+.design{
+    text-align: center;
+    background: linear-gradient(-45deg, #EC5252 0, #6E1A52 100%);
+    margin-right: 0px;
+    margin-left: 0px;
+}
+    
+
+.text{
+    color: white;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 10px 10px 10px 0px gray;
+}
+.align{
+    text-align: center;
+}
+ul li{
+    list-style: none;
+}
+.footer_area{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px;
+}
